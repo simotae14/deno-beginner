@@ -5,3 +5,8 @@ if (food === "love" && parent === "ryan") {
 } else {
   console.log("🥚...this egg needs some love");
 }
+
+// run with
+// deno run 04_deno_exercise.js "love" "simo"
+// or
+// deno run 04_deno_exercise.js "love" "ryan"

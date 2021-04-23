@@ -5,3 +5,8 @@ if (food === "love") {
 } else {
   console.log("🥚...this egg needs some love");
 }
+
+// run with
+// deno run 03_deno.js "ciao"
+// or
+// deno run 03_deno.js "love"
